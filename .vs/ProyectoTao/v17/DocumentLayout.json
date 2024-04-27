@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|c:\\users\\yenni\\source\\repos\\proyectotao\\proyectotao\\controllers\\tiposclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|solutionrelative:proyectotao\\controllers\\tiposclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|c:\\users\\yenni\\source\\repos\\proyectotao\\proyectotao\\models\\tipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|solutionrelative:proyectotao\\models\\tipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|c:\\users\\yenni\\source\\repos\\proyectotao\\proyectotao\\views\\tiposclientes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|solutionrelative:proyectotao\\views\\tiposclientes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\Views\\TiposClientes\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTao\\Views\\TiposClientes\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\Views\\TiposClientes\\Crear.cshtml",
+              "RelativeToolTip": "ProyectoTao\\Views\\TiposClientes\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:42:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\Models\\TipoCliente.cs",
+              "RelativeDocumentMoniker": "ProyectoTao\\Models\\TipoCliente.cs",
+              "ToolTip": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\Models\\TipoCliente.cs",
+              "RelativeToolTip": "ProyectoTao\\Models\\TipoCliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:42:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiposClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "RelativeDocumentMoniker": "ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "ToolTip": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "RelativeToolTip": "ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:42:13.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

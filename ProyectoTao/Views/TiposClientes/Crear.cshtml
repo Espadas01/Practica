@@ -1,0 +1,25 @@
+﻿@model TipoCliente
+
+@{
+    ViewData["Title"] = "Crear Cliente";
+
+}
+
+<h1>Registro Cliente TAO</h1>
+<h5>Para registrarte, completa los siguientes datos</h5>
+
+
+
+
+<form asp-controller="TiposClientes" asp-action="Crear">
+    <div class="input-group" >
+        <span class="input-group-text">ID Cliente</span>
+
+        <input type="text" aria-label="Clave Cliente" class="form-control">
+        <div asp-validation-summary="All" class="text-danger"></div>
+    </div>
+
+  
+
+        <button type="submit" class="btn btn-primary col-md-2">Aceptar</button>
+</form>
