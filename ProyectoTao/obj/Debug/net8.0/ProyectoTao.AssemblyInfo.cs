@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoTao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf0eeb65246d171cbd051c469c81d3a82a492950")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a8627d954eb7c7b9d768873b67926f8b2823c35")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoTao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoTao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

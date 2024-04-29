@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|c:\\users\\jesus tapia\\documents\\github\\proyectotao\\proyectotao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|solutionrelative:proyectotao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|c:\\users\\jesus tapia\\documents\\github\\proyectotao\\proyectotao\\controllers\\tiposclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AE4219-958C-4A44-8882-987E458F20CB}|ProyectoTao\\ProyectoTao.csproj|solutionrelative:proyectotao\\controllers\\tiposclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "ProyectoTao\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\appsettings.Development.json",
               "RelativeToolTip": "ProyectoTao\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-29T20:23:19.451Z",
+              "WhenOpened": "2024-04-29T20:57:10.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiposClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "RelativeDocumentMoniker": "ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "ToolTip": "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "RelativeToolTip": "ProyectoTao\\Controllers\\TiposClientesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:53:08.616Z",
               "EditorCaption": ""
             }
           ]
