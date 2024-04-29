@@ -9,17 +9,51 @@
 <h5>Para registrarte, completa los siguientes datos</h5>
 
 
-
+<div asp-validation-summary="All" class="text-danger"></div>
 
 <form asp-controller="TiposClientes" asp-action="Crear">
-    <div class="input-group" >
-        <span class="input-group-text">ID Cliente</span>
+    <div class="mb-3'" >
+        <label asp-for="IDCliente" class="form-label"></label>
+        <input type="text" asp-for="IDCliente" class="form-control">
+       <span asp-validation-for="IDCliente" class="text-danger"></span>
+    </div>
 
-        <input type="text" aria-label="Clave Cliente" class="form-control">
-        <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="mb-3">
+        <label asp-for="ClaveCliente" class="form-label"></label>
+        <input asp-for="ClaveCliente" class="form-control" />
+        <span asp-validation-for="ClaveCliente" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NombreCliente" class="form-label"></label>
+        <input asp-for="NombreCliente" class="form-control" />
+        <span asp-validation-for="NombreCliente" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FechaAlta" class="form-label"></label>
+        <input asp-for="FechaAlta" class="form-control" />
+        <span asp-validation-for="FechaAlta" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TiempoInactivo" class="form-label"></label>
+        <input asp-for="TiempoInactivo" class="form-control" />
+        <span asp-validation-for="TiempoInactivo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Estatus" class="form-label"></label>
+        <input asp-for="Estatus" class="form-control" />
+        <span asp-validation-for="Estatus" class="text-danger"></span>
     </div>
 
   
 
         <button type="submit" class="btn btn-primary col-md-2">Aceptar</button>
 </form>
+
+@section  Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+}

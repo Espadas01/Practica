@@ -28,3 +28,4 @@ C:\Users\Yenni\source\repos\ProyectoTao\ProyectoTao\obj\Debug\net8.0\refint\Proy
 C:\Users\Yenni\source\repos\ProyectoTao\ProyectoTao\obj\Debug\net8.0\ProyectoTao.pdb
 C:\Users\Yenni\source\repos\ProyectoTao\ProyectoTao\obj\Debug\net8.0\ProyectoTao.genruntimeconfig.cache
 C:\Users\Yenni\source\repos\ProyectoTao\ProyectoTao\obj\Debug\net8.0\ref\ProyectoTao.dll
+C:\Users\Yenni\source\repos\ProyectoTao\ProyectoTao\obj\Debug\net8.0\ProyectoTao.sourcelink.json
