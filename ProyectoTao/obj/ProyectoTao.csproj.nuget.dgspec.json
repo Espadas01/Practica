@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj": {}
+    "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj": {
+    "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj",
         "projectName": "ProyectoTao",
-        "projectPath": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj",
-        "packagesPath": "C:\\Users\\Yenni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yenni\\source\\repos\\ProyectoTao\\ProyectoTao\\obj\\",
+        "projectPath": "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\ProyectoTao.csproj",
+        "packagesPath": "C:\\Users\\Jesus Tapia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesus Tapia\\Documents\\GitHub\\ProyectoTao\\ProyectoTao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jesus Tapia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
